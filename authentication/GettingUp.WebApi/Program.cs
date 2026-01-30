@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace WebApplication1
+namespace GettingUp.WebApi
 {
     public sealed class Program
     {
